@@ -11,7 +11,7 @@
 ![Minha Imagem](tables_img/Data_Analysis.png)
 
 #### Best_Data_Science_books
-![Minha Imagem(tables_img/Data_Science.png)
+![Minha Imagem](tables_img/Data_Science.png)
 
 #### Best_Machine_Learn_books
 ![Minha Imagem](tables_img/Machine_Learn.png)
