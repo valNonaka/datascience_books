@@ -10,7 +10,7 @@
 #### Best_Data_Analysis_books
 ![Minha Imagem](tables_img/Data_Analysis.png)
 
-#### Best_Statistics_books
+#### Best_Data_Science_books
 ![Minha Imagem](tables_img/Statistics.png)
 
 #### Best_Machine_Learn_books
