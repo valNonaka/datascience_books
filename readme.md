@@ -1,5 +1,5 @@
 
-##  **O objetivo desse projeto é selecionar os livros mais bem avaliados da Amazon na área de Ciência de Dados** 
+##  **The objective of this project is to select the best-rated books on Amazon in the​​ Data Science subset** 
 
 #### [Best_Statistics_books](Best_tables_csvs/Best_Statistics_books.csv)
 ![Minha Imagem](tables_img/Statistics.png)
