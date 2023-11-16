@@ -1,7 +1,7 @@
 
 ##  **O objetivo desse projeto é selecionar os livros mais bem avaliados da Amazon na área de Ciência de Dados** 
 
-#### Best_Statistics_books
+#### [Best_Statistics_books](Best_tables_csvs/Best_Statistics_books.csv)
 ![Minha Imagem](tables_img/Statistics.png)
 
 #### Best_python_books
