@@ -4,7 +4,20 @@
 #### Best_Statistics_books
 ![Minha Imagem](tables_img/Statistics.png)
 
+#### Best_python_books
+![Minha Imagem](tables_img/python.png)
 
+#### Best_Data_Analysis_books
+![Minha Imagem](tables_img/Data_Analysis.png)
+
+#### Best_Statistics_books
+![Minha Imagem](tables_img/Statistics.png)
+
+#### Best_Machine_Learn_books
+![Minha Imagem](tables_img/Machine_Learn.png)
+
+#### Best_Deep_Learn_books
+![Minha Imagem](tables_img/Deep_Learn.png)
 
 
 Statistics
