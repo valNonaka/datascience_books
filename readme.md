@@ -4,19 +4,19 @@
 #### [Best_Statistics_books](Best_tables_csvs/Best_Statistics_books.csv)
 ![Minha Imagem](tables_img/Statistics.png)
 
-#### Best_python_books
+#### [Best_python_books](Best_tables_csvs/Best_python_books.csv) 
 ![Minha Imagem](tables_img/python.png)
 
-#### Best_Data_Analysis_books
+#### [Best_Data_Analysis_books](Best_tables_csvs/Best_Data_Analysis_books.csv) 
 ![Minha Imagem](tables_img/Data_Analysis.png)
 
-#### Best_Data_Science_books
+#### [Best_Data_Science_books](Best_tables_csvs/Best_Data_Science_books.csv)   
 ![Minha Imagem](tables_img/Data_Science.png)
 
-#### Best_Machine_Learn_books
+#### [Best_Machine_Learn_books](Best_tables_csvs/Best_Machine_Learn_books.csv) 
 ![Minha Imagem](tables_img/Machine_Learn.png)
 
-#### Best_Deep_Learn_books
+#### [Best_Deep_Learn_books](Best_tables_csvs/Best_Deep_Learn_books.csv)  
 ![Minha Imagem](tables_img/Deep_Learn.png)
 
 ---
